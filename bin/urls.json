@@ -1,0 +1,15 @@
+[
+	{
+		"_class": "org.jaylee.domain.Url",
+		"originURL" : "https://www.naver.com",
+		"shortURL" : ""
+	},
+	{
+		"_class": "org.jaylee.domain.Url",
+		"originURL" : "https://www.youtube.com"
+	},
+	{
+		"_class": "org.jaylee.domain.Url",
+		"originURL" : "https://www.google.com"
+	}
+]
