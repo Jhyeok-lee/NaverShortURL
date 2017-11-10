@@ -1,11 +1,11 @@
 # NaverShortURL
 
 ### Quick Start
-1. Install gradle
+1. Install gradle<br />
 [How to install gradle](https://gradle.org/install/)
-2. Install redis
+2. Install redis<br />
 [How to install redis](https://redis.io/topics/quickstart)
-3. Open a terminal and run the following command.
+3. Open a terminal and run the following command.<br />
 `$ redis-server`
 4. Open another terminal and run the commands.
 ```
